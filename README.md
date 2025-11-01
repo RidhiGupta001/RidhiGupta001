@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...projects that include research and coding
 - 📫 How to reach me ...email - ridhig697@gmail.com
 - 😄 Pronouns: ...she/her
-- ⚡ Fun fact: ...I am a computer science student in 2nd year 
+- ⚡ Fun fact: ...I am a computer science student in 3rd year 
 
 <!---
 RidhiGupta001/RidhiGupta001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
