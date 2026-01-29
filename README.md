@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RidhiGupta001 
-- 👀 I’m interested in ...AI,ML and RTOS 
-- 🌱 I’m currently learning ...RTOS and Data Acquisition
+- 👀 I’m interested in ...AI,ML and RTOS, machine learning  
+- 🌱 I’m currently learning ...RTOS and Data Acquisition LLMs and deep learning 
 - 💞️ I’m looking to collaborate on ...projects that include research and coding
 - 📫 How to reach me ...email - ridhig697@gmail.com
 - 😄 Pronouns: ...she/her
